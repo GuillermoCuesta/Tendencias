@@ -6,8 +6,7 @@ public class BloqueAssignmentClose : Bloque
 {
 
     public bool isSelect;
-
+    public bool cero;
     public string valorXML = "</assignment>";
-
 }
 
